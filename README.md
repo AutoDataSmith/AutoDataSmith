@@ -1,49 +1,69 @@
 # Kenneth Smith / AutoDataSmith
 
-I am a web development student at St. Petersburg College and a technical systems professional with experience building business applications, SQL databases, reporting tools, API integrations, and automation workflows.
+.NET web developer focused on MVC/Razor, APIs, SQL databases, automation, reporting, and practical business systems.
 
-Most of my professional development work is maintained in private Azure DevOps repositories because it involves business systems, client data, internal tools, or proprietary workflows. This GitHub profile is used primarily for public student projects, selected demonstrations, and portfolio-friendly examples.
+I am an A.S. Web Development student at St. Petersburg College with a long professional background in accounting systems, business operations, reporting, data workflows, and custom web application development.
+
+Most of my professional source code is maintained in private Azure DevOps repositories because it supports active business systems, client data, internal tools, and proprietary workflows. This GitHub profile is used for public coursework, selected project examples, and portfolio-friendly demonstrations.
 
 ## Current Focus
 
 - Completing an A.S. in Web Development at St. Petersburg College.
-- Building practical web applications with HTML, CSS, JavaScript, C#, .NET, SQL Server, and REST APIs.
-- Improving business workflows through automation, reporting, data validation, and integration work.
+- Building and maintaining practical web applications using C#, .NET, MVC/Razor, SQL Server, JavaScript, HTML, CSS, and REST APIs.
+- Improving business workflows through automation, reporting, data validation, and system integrations.
 - Exploring responsible use of AI-assisted development tools for research, debugging, documentation, and productivity.
 
 ## Technical Strengths
 
-- Web development: HTML, CSS, JavaScript, ASP.NET MVC, .NET / .NET Core.
+- Web development: HTML, CSS, JavaScript, ASP.NET MVC, Razor, .NET / .NET Core.
 - Database work: SQL Server, T-SQL, PostgreSQL, stored procedures, reporting, reconciliation, and data validation.
 - Integrations: REST APIs, ERP/DMS connectors, payment/email integrations, and automated data pipelines.
-- Business systems: reporting tools, workflow automation, dashboards, operational support, and user-focused internal tools.
+- Business systems: dashboards, reporting tools, workflow automation, user support, and internal operational tools.
 - Tools: Visual Studio, Azure DevOps, Git, GitHub, SSMS, Power BI, Microsoft 365, Teams, and Slack.
 
-## Public Projects
+## Public GitHub Repositories
 
-The repositories here are public examples from coursework or selected demonstration work. They are intended to show coding approach, structure, and learning progress rather than represent the full scope of my professional development history.
+The public repositories here are primarily coursework and portfolio-safe examples. They are intended to show coding approach, project structure, and learning progress without exposing private business code.
 
-When reviewing these projects, the most relevant areas to look for are:
+Useful areas to review:
 
-- Clear project structure.
-- HTML/CSS/JavaScript implementation.
-- Practical problem solving.
-- Documentation and readability.
-- Evidence of how I approach web development tasks.
+- HTML/CSS/JavaScript coursework.
+- JavaScript browser application logic.
+- JavaScript backend coursework using Node/Express concepts.
+- MongoDB/Mongoose exposure in student backend work.
+- File organization, readability, and practical problem solving.
 
-## Featured Project
+## Professional Project Examples
+
+### TutorSelect
+
+TutorSelect is a production web application and one of my largest long-term projects. It supports tutoring business operations, customer workflows, staff/admin tools, reporting, and business process management.
+
+The source code is maintained privately because it supports an active business system, but the project represents long-term experience with web application development, database-backed workflows, user support, reporting, and operational automation.
+
+Website: https://www.tutorselect.com/
+
+Related business site: https://advancedlearners.com/
 
 ### Evernight Online
 
-Evernight Online is a browser-based multiplayer strategy game project that demonstrates long-term web application development, database-backed features, user authentication, administrative tooling, deployment, troubleshooting, and ongoing feature support.
+Evernight Online is a browser-based multiplayer strategy game project demonstrating long-term web application development, database-backed features, user authentication, administrative tooling, deployment, troubleshooting, and ongoing feature support.
 
 Publisher / project hub: https://f12games.com/
 
 Website: https://evernightgame.com/
 
+### AnchorPoint Bookkeeping / AutoDataSmith LLC
+
+AnchorPoint Bookkeeping is a bookkeeping service backed by the systems, accounting, and automation experience of AutoDataSmith LLC.
+
+The public site is business-facing rather than a code portfolio, but it reflects my combined background in accounting operations, reporting, process improvement, and practical business systems.
+
+Website: https://autodatasmith.com/
+
 ## Professional Background
 
-My background combines software development with business operations, accounting systems, reporting, and process improvement. That gives me a practical perspective on how web applications and databases are used by real teams: they need to be accurate, maintainable, understandable, and useful to non-technical users.
+My background combines software development with accounting, finance, operations, reporting, and process improvement. That gives me a practical perspective on how web applications and databases are used by real teams: they need to be accurate, maintainable, understandable, and useful to non-technical users.
 
 I am especially interested in roles and projects involving:
 
@@ -55,14 +75,12 @@ I am especially interested in roles and projects involving:
 - Internal business systems.
 - Practical AI-assisted development workflows.
 
-## Note on Repository Activity
-
-Most of my professional work is maintained in private Azure DevOps repositories because it involves internal business systems, client data, and proprietary workflows. Public GitHub repositories here are selected coursework and portfolio examples.
-
 ## Links
 
 - LinkedIn: https://www.linkedin.com/in/ken-smith-appdeveloper/
-- Website: https://www.autodatasmith.com/
+- TutorSelect: https://www.tutorselect.com/
+- Advanced Learners: https://advancedlearners.com/
 - F12Games: https://f12games.com/
 - Evernight Online: https://evernightgame.com/
+- AnchorPoint Bookkeeping / AutoDataSmith LLC: https://autodatasmith.com/
 
