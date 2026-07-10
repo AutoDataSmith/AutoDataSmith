@@ -55,6 +55,10 @@ I am especially interested in roles and projects involving:
 - Internal business systems.
 - Practical AI-assisted development workflows.
 
+## Note on Repository Activity
+
+Most of my professional work is maintained in private Azure DevOps repositories because it involves internal business systems, client data, and proprietary workflows. Public GitHub repositories here are selected coursework and portfolio examples.
+
 ## Links
 
 - LinkedIn: https://www.linkedin.com/in/ken-smith-appdeveloper/
